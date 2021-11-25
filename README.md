@@ -1,1 +1,196 @@
-dHJvamFuOi8vYTBkYWE5ZDktNjI1Ny00YWU5LTk5NTktY2NmYjk5M2YxMjJjQHQ4LnNzcnN1Yi5jb206MTEwMzMjZ2l0aHViLmNvbSUyZmZyZWVmcSstKyVlNCViZiU4NCVlNyViZCU5NyVlNiU5NiVhZisrMTQKc3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VUVOdWJrZzJVMUZUYm1adlV6STNRREV6TkM0eE9UVXVNVGs0TGpFM09EbzRNRGt3I2dpdGh1Yi5jb20lMmZmcmVlZnErLSslZTUlOGMlOTclZTclYmUlOGUlZTUlOWMlYjAlZTUlOGMlYmErKzYKc3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2Um05UGFVZHNhMEZCT1hsUVJVZFFRREV6TkM0eE9UVXVNVGsyTGpFMU5EbzNNekEzI2dpdGh1Yi5jb20lMmZmcmVlZnErLSslZTUlOGMlOTclZTclYmUlOGUlZTUlOWMlYjAlZTUlOGMlYmErKzUKc3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2Um05UGFVZHNhMEZCT1hsUVJVZFFRREV6TkM0eE9UVXVNVGs0TGprMU9qY3pNRFk9I2dpdGh1Yi5jb20lMmZmcmVlZnErLSslZTUlOGMlOTclZTclYmUlOGUlZTUlOWMlYjAlZTUlOGMlYmErKzcKc3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2Wm1GQ1FXOUVOVFJyT0RkVlNrYzNRREV6TkM0eE9UVXVNVGs0TGpJMU1qb3lNemMxI2dpdGh1Yi5jb20lMmZmcmVlZnErLSslZTUlOGMlOTclZTclYmUlOGUlZTUlOWMlYjAlZTUlOGMlYmErKzgKc3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2UzJsNFRIWkxlbmRxWld0SE1EQnliVUF4TXpRdU1UazFMakU1Tmk0eU1UUTZPREE0TUE9PSNnaXRodWIuY29tJTJmZnJlZWZxKy0rJWU1JThjJTk3JWU3JWJlJThlJWU1JTljJWIwJWU1JThjJWJhKys0CnNzOi8vWVdWekxUSTFOaTFuWTIwNlptRkNRVzlFTlRSck9EZFZTa2MzUURFek5DNHhPVFV1TVRrNExqSTFNam95TXpjMiNnaXRodWIuY29tJTJmZnJlZWZxKy0rJWU1JThjJTk3JWU3JWJlJThlJWU1JTljJWIwJWU1JThjJWJhKysxNwp2bWVzczovL2V3MEtJQ0FpZGlJNklDSXlJaXdOQ2lBZ0luQnpJam9nSWlqbWhKL29zS0xsaGJQbXM2aDViM1YwZFdKbDc3eWFPT1c2cHVlbmtlYUtnQ2tnTlRRaUxBMEtJQ0FpWVdSa0lqb2dJbU5qTG1oamFXRm9ZMmx3YUdOcFpTNWpiSFZpSWl3TkNpQWdJbkJ2Y25RaU9pQWlORFF6SWl3TkNpQWdJbWxrSWpvZ0lqbGhNamszWW1JeExUQTJaVE10TkdVMlppMDVOMlpoTFROa016SXdNbVEwTmpVNU5pSXNEUW9nSUNKaGFXUWlPaUFpTWlJc0RRb2dJQ0p6WTNraU9pQWlZWFYwYnlJc0RRb2dJQ0p1WlhRaU9pQWlkM01pTEEwS0lDQWlkSGx3WlNJNklDSnViMjVsSWl3TkNpQWdJbWh2YzNRaU9pQWlZMk11YUdOcFlXaGphWEJvWTJsbExtTnNkV0lpTEEwS0lDQWljR0YwYUNJNklDSXZPRFJqTTJZdklpd05DaUFnSW5Sc2N5STZJQ0owYkhNaUxBMEtJQ0FpYzI1cElqb2dJaUlOQ24wPQp0cm9qYW46Ly9hMGRhYTlkOS02MjU3LTRhZTktOTk1OS1jY2ZiOTkzZjEyMmNAdDUuc3Nyc3ViLmNvbToxMTAzMyNnaXRodWIuY29tJTJmZnJlZWZxKy0rJWU0JWJmJTg0JWU3JWJkJTk3JWU2JTk2JWFmJWU2JTk2JWIwJWU4JWE1JWJmJWU0JWJjJWFmJWU1JTg4JWE5JWU0JWJhJTlhJWU1JWI3JTllJWU2JTk2JWIwJWU4JWE1JWJmJWU0JWJjJWFmJWU1JTg4JWE5JWU0JWJhJTlhKzE4CnRyb2phbjovL2EwZGFhOWQ5LTYyNTctNGFlOS05OTU5LWNjZmI5OTNmMTIyY0B0MS5zc3JzdWIuY29tOjExMDMzI2dpdGh1Yi5jb20lMmZmcmVlZnErLSslZTQlYmYlODQlZTclYmQlOTclZTYlOTYlYWYlZTUlODUlOGIlZTYlOGIlODklZTYlOTYlYWYlZTglYWYlYmElZTQlYmElOWElZTUlYjAlOTQlZTYlOTYlYWYlZTUlODUlOGJHLUNvcmUrTGFiKzExCnNzOi8vWVdWekxUSTFOaTFuWTIwNlptRkNRVzlFTlRSck9EZFZTa2MzUURFek5DNHhPVFV1TVRrMkxqY3hPakl6TnpVPSNnaXRodWIuY29tJTJmZnJlZWZxKy0rJWU1JThjJTk3JWU3JWJlJThlJWU1JTljJWIwJWU1JThjJWJhKysxCnNzOi8vWVdWekxUSTFOaTFuWTIwNlp6Vk5aVVEyUm5RelExZHNTa2xrUURFek5DNHhPVFV1TVRrMkxqSXhORG8xTURBMCNnaXRodWIuY29tJTJmZnJlZWZxKy0rJWU1JThjJTk3JWU3JWJlJThlJWU1JTljJWIwJWU1JThjJWJhKysyCnNzOi8vWVdWekxUSTFOaTFuWTIwNlptRkNRVzlFTlRSck9EZFZTa2MzUURFNU9DNDFOeTR5Tnk0eU1UZzZNak0zTmc9PSNnaXRodWIuY29tJTJmZnJlZWZxKy0rJWU1JThjJTk3JWU3JWJlJThlJWU1JTljJWIwJWU1JThjJWJhKysxNgp0cm9qYW46Ly9hMGRhYTlkOS02MjU3LTRhZTktOTk1OS1jY2ZiOTkzZjEyMmNAdDEuc3Nyc3ViLmNvbToxMTAzMyNnaXRodWIuY29tJTJmZnJlZWZxKy0rJWU0JWJmJTg0JWU3JWJkJTk3JWU2JTk2JWFmJWU1JTg1JThiJWU2JThiJTg5JWU2JTk2JWFmJWU4JWFmJWJhJWU0JWJhJTlhJWU1JWIwJTk0JWU2JTk2JWFmJWU1JTg1JThiRy1Db3JlK0xhYis0CnNzOi8vWVdWekxUSTFOaTFuWTIwNlp6Vk5aVVEyUm5RelExZHNTa2xrUURFeE9DNHhNRGN1TWpRMExqRXhNRG8xTURBeiNnaXRodWIuY29tJTJmZnJlZWZxKy0rJWU5JWE5JWFjJWU2JTlkJWE1JWU4JWE1JWJmJWU0JWJhJTlhKys3Cgo=
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+proxies:
+  - {name: (感谢关注youtube：8度科技) 54, server: cc.hciahciphcie.club, port: 443, type: vmess, uuid: 9a297bb1-06e3-4e6f-97fa-3d3202d46596, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /84c3f/, ws-headers: {Host: cc.hciahciphcie.club}, udp: true}
+  - {name: 🇲🇾 github.com/freefq - 马来西亚  7, server: 118.107.244.110, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: 🇷🇺 github.com/freefq - 俄罗斯  14, server: t8.ssrsub.com, port: 11033, type: trojan, password: a0daa9d9-6257-4ae9-9959-ccfb993f122c, sni: t8.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 11, server: t1.ssrsub.com, port: 11033, type: trojan, password: a0daa9d9-6257-4ae9-9959-ccfb993f122c, sni: t1.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4, server: t1.ssrsub.com, port: 11033, type: trojan, password: a0daa9d9-6257-4ae9-9959-ccfb993f122c, sni: t1.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇷🇺 github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 18, server: t5.ssrsub.com, port: 11033, type: trojan, password: a0daa9d9-6257-4ae9-9959-ccfb993f122c, sni: t5.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 北美地区  1, server: 134.195.196.71, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 北美地区  16, server: 198.57.27.218, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 北美地区  17, server: 134.195.198.252, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 北美地区  2, server: 134.195.196.214, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 北美地区  4, server: 134.195.196.214, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 北美地区  5, server: 134.195.196.154, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 北美地区  6, server: 134.195.198.178, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 北美地区  7, server: 134.195.198.95, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: 🇺🇸 github.com/freefq - 北美地区  8, server: 134.195.198.252, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+proxy-groups:
+  - name: 🚀 节点选择
+    type: select
+    proxies:
+      - ♻️ 自动选择
+      - DIRECT
+      - (感谢关注youtube：8度科技) 54
+      - 🇲🇾 github.com/freefq - 马来西亚  7
+      - 🇷🇺 github.com/freefq - 俄罗斯  14
+      - 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 11
+      - 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4
+      - 🇷🇺 github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 18
+      - 🇺🇸 github.com/freefq - 北美地区  1
+      - 🇺🇸 github.com/freefq - 北美地区  16
+      - 🇺🇸 github.com/freefq - 北美地区  17
+      - 🇺🇸 github.com/freefq - 北美地区  2
+      - 🇺🇸 github.com/freefq - 北美地区  4
+      - 🇺🇸 github.com/freefq - 北美地区  5
+      - 🇺🇸 github.com/freefq - 北美地区  6
+      - 🇺🇸 github.com/freefq - 北美地区  7
+      - 🇺🇸 github.com/freefq - 北美地区  8
+  - name: ♻️ 自动选择
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - (感谢关注youtube：8度科技) 54
+      - 🇲🇾 github.com/freefq - 马来西亚  7
+      - 🇷🇺 github.com/freefq - 俄罗斯  14
+      - 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 11
+      - 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4
+      - 🇷🇺 github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 18
+      - 🇺🇸 github.com/freefq - 北美地区  1
+      - 🇺🇸 github.com/freefq - 北美地区  16
+      - 🇺🇸 github.com/freefq - 北美地区  17
+      - 🇺🇸 github.com/freefq - 北美地区  2
+      - 🇺🇸 github.com/freefq - 北美地区  4
+      - 🇺🇸 github.com/freefq - 北美地区  5
+      - 🇺🇸 github.com/freefq - 北美地区  6
+      - 🇺🇸 github.com/freefq - 北美地区  7
+      - 🇺🇸 github.com/freefq - 北美地区  8
+  - name: 🌍 国外媒体
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - ♻️ 自动选择
+      - 🎯 全球直连
+      - (感谢关注youtube：8度科技) 54
+      - 🇲🇾 github.com/freefq - 马来西亚  7
+      - 🇷🇺 github.com/freefq - 俄罗斯  14
+      - 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 11
+      - 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4
+      - 🇷🇺 github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 18
+      - 🇺🇸 github.com/freefq - 北美地区  1
+      - 🇺🇸 github.com/freefq - 北美地区  16
+      - 🇺🇸 github.com/freefq - 北美地区  17
+      - 🇺🇸 github.com/freefq - 北美地区  2
+      - 🇺🇸 github.com/freefq - 北美地区  4
+      - 🇺🇸 github.com/freefq - 北美地区  5
+      - 🇺🇸 github.com/freefq - 北美地区  6
+      - 🇺🇸 github.com/freefq - 北美地区  7
+      - 🇺🇸 github.com/freefq - 北美地区  8
+  - name: 📲 电报信息
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🎯 全球直连
+      - (感谢关注youtube：8度科技) 54
+      - 🇲🇾 github.com/freefq - 马来西亚  7
+      - 🇷🇺 github.com/freefq - 俄罗斯  14
+      - 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 11
+      - 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4
+      - 🇷🇺 github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 18
+      - 🇺🇸 github.com/freefq - 北美地区  1
+      - 🇺🇸 github.com/freefq - 北美地区  16
+      - 🇺🇸 github.com/freefq - 北美地区  17
+      - 🇺🇸 github.com/freefq - 北美地区  2
+      - 🇺🇸 github.com/freefq - 北美地区  4
+      - 🇺🇸 github.com/freefq - 北美地区  5
+      - 🇺🇸 github.com/freefq - 北美地区  6
+      - 🇺🇸 github.com/freefq - 北美地区  7
+      - 🇺🇸 github.com/freefq - 北美地区  8
+  - name: Ⓜ️ 微软服务
+    type: select
+    proxies:
+      - 🎯 全球直连
+      - 🚀 节点选择
+      - (感谢关注youtube：8度科技) 54
+      - 🇲🇾 github.com/freefq - 马来西亚  7
+      - 🇷🇺 github.com/freefq - 俄罗斯  14
+      - 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 11
+      - 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4
+      - 🇷🇺 github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 18
+      - 🇺🇸 github.com/freefq - 北美地区  1
+      - 🇺🇸 github.com/freefq - 北美地区  16
+      - 🇺🇸 github.com/freefq - 北美地区  17
+      - 🇺🇸 github.com/freefq - 北美地区  2
+      - 🇺🇸 github.com/freefq - 北美地区  4
+      - 🇺🇸 github.com/freefq - 北美地区  5
+      - 🇺🇸 github.com/freefq - 北美地区  6
+      - 🇺🇸 github.com/freefq - 北美地区  7
+      - 🇺🇸 github.com/freefq - 北美地区  8
+  - name: 🍎 苹果服务
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🎯 全球直连
+      - (感谢关注youtube：8度科技) 54
+      - 🇲🇾 github.com/freefq - 马来西亚  7
+      - 🇷🇺 github.com/freefq - 俄罗斯  14
+      - 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 11
+      - 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4
+      - 🇷🇺 github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 18
+      - 🇺🇸 github.com/freefq - 北美地区  1
+      - 🇺🇸 github.com/freefq - 北美地区  16
+      - 🇺🇸 github.com/freefq - 北美地区  17
+      - 🇺🇸 github.com/freefq - 北美地区  2
+      - 🇺🇸 github.com/freefq - 北美地区  4
+      - 🇺🇸 github.com/freefq - 北美地区  5
+      - 🇺🇸 github.com/freefq - 北美地区  6
+      - 🇺🇸 github.com/freefq - 北美地区  7
+      - 🇺🇸 github.com/freefq - 北美地区  8
+  - name: 📢 谷歌FCM
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🎯 全球直连
+      - ♻️ 自动选择
+      - (感谢关注youtube：8度科技) 54
+      - 🇲🇾 github.com/freefq - 马来西亚  7
+      - 🇷🇺 github.com/freefq - 俄罗斯  14
+      - 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 11
+      - 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4
+      - 🇷🇺 github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 18
+      - 🇺🇸 github.com/freefq - 北美地区  1
+      - 🇺🇸 github.com/freefq - 北美地区  16
+      - 🇺🇸 github.com/freefq - 北美地区  17
+      - 🇺🇸 github.com/freefq - 北美地区  2
+      - 🇺🇸 github.com/freefq - 北美地区  4
+      - 🇺🇸 github.com/freefq - 北美地区  5
+      - 🇺🇸 github.com/freefq - 北美地区  6
+      - 🇺🇸 github.com/freefq - 北美地区  7
+      - 🇺🇸 github.com/freefq - 北美地区  8
+  - name: 🎯 全球直连
+    type: select
+    proxies:
+      - DIRECT
+      - 🚀 节点选择
+      - ♻️ 自动选择
+  - name: 🐟 漏网之鱼
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🎯 全球直连
+      - ♻️ 自动选择
+      - (感谢关注youtube：8度科技) 54
+      - 🇲🇾 github.com/freefq - 马来西亚  7
+      - 🇷🇺 github.com/freefq - 俄罗斯  14
+      - 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 11
+      - 🇷🇺 github.com/freefq - 俄罗斯克拉斯诺亚尔斯克G-Core Lab 4
+      - 🇷🇺 github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 18
+      - 🇺🇸 github.com/freefq - 北美地区  1
+      - 🇺🇸 github.com/freefq - 北美地区  16
+      - 🇺🇸 github.com/freefq - 北美地区  17
+      - 🇺🇸 github.com/freefq - 北美地区  2
+      - 🇺🇸 github.com/freefq - 北美地区  4
+      - 🇺🇸 github.com/freefq - 北美地区  5
+      - 🇺🇸 github.com/freefq - 北美地区  6
+      - 🇺🇸 github.com/freefq - 北美地区  7
+      - 🇺🇸 github.com/freefq - 北美地区  8
+rules:
+ - GEOIP,CN,🎯 全球直连
+ - MATCH,🐟 漏网之鱼
